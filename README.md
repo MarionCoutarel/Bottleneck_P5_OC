@@ -15,4 +15,9 @@ Un caviste avec une petite boutique en ligne demande à rapprocher 2 exports (un
 
 ![graph_bottleneck](https://github.com/MarionCoutarel/Bottleneck_P5_OC/blob/main/graph_bottleneck.png?raw=true)
 
+## Library lux
+  
+Ce projet m'a permis d'explorer les possibilités offertes par [lux](https://github.com/lux-org/lux "lien vers lux").   
+J'ai écrit un article de démonstration à destination de mes collègues visible [ici](https://www.linkedin.com/pulse/utiliser-lux-pour-lexploration-de-donn%C3%A9es-marion-huez-coutarel/ "lien vers l'article lux de Marion Coutarel")
+
   
