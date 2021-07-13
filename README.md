@@ -13,5 +13,6 @@ Un caviste avec une petite boutique en ligne demande à rapprocher 2 exports (un
    * Classifier différents types de données
    * Réaliser une analyse univariée pour interpréter des données
 
+![graph_bottleneck](https://github.com/MarionCoutarel/Bottleneck_P5_OC/blob/main/graph_bottleneck.png?raw=true)
 
   
